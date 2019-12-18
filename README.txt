@@ -15,7 +15,8 @@ There are 2 files:
 Requirement:
     1/Download package selenium and Firefox web browser
         _From command line: pip install selenium
-    2/ Download geckodriver and put it at user/_your_name_/local/Python
+    2/ Download geckodriver and put it at \Users\_your_name\AppData\Local\Programs\Python\Python38-32
+    
 
 What I learn:
 _How to find element in HTML of Twitter
